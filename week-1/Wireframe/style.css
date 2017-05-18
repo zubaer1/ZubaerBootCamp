@@ -1,0 +1,97 @@
+
+body {
+	background-color: #777;
+	width: 960px;
+	margin-left: 80px;
+}
+
+.oneHeader {
+  padding: 10px;
+  color: blue;
+  background: #ebebeb;
+  border: solid 2px black;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.oneNav {
+  padding: 10px;
+  color: blue;
+  background: #ebebeb;
+  border: solid 2px black;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.left{
+	 float: left;
+	 width: 495px;
+	 border: solid 2px black;
+	 background: #ebebeb;
+	 margin-bottom: 10px;
+
+}
+.out{
+	width: 460px;
+	border: solid 2px black;
+	margin: 15px;
+	background-color: #777;
+}
+
+p {
+	margin: 10px;
+}
+ section .oneDivision {
+	 color: blue;
+	 width: 430px;
+	 text-align: center;
+	 margin-bottom: 4px;
+	 background: #ebebeb;
+
+}
+.oneSection{
+	 margin: 15px;
+	 font-size: 18px;
+	 font-family: Arial;
+	 color: white;
+	 background-color: #777;
+
+}
+
+.twoSection{
+	width: 430px;
+	border: solid 2px black;
+	background: #ebebeb;
+	text-align: center;
+}
+
+.oneDivision{
+	width: 460px;
+	border: solid 2px black;
+	margin-bottom: 5px;
+	margin-left: 15px;
+	text-align: center;
+
+}
+
+  .right {
+	 border: solid 2px black;
+	 background: #ebebeb;
+	 color: blue;
+	 float: left;
+	 width: 440px;
+	 height: 430px;
+	 text-align: center;
+	 
+	 margin-left: 15px;
+	 font-size: 18px;
+	 font-family: Arial;
+	}
+
+.oneFooter{
+	margin-top: 10px;
+	padding: 20px;
+	clear: both;
+	border: solid 2px black;
+	background: #ebebeb;
+}
